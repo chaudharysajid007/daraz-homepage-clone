@@ -1,0 +1,64 @@
+.box {
+  background-color: #f85606;
+  height: 89px;
+  padding-top: 11px;
+  position: sticky;
+  position: relative;
+  display: flex;
+  align-items: center;
+  gap: 30px;
+}
+* {
+  margin: 0px;
+  padding: 0px;
+}
+.logo {
+  height: 40px;
+  width: 109px;
+  margin-left: 570px;
+}
+
+.box1 {
+  background-color: #f85606;
+  /* height: 25px; */
+  height: 49px;
+  text-transform: uppercase;
+  color: white;
+  display: flex;
+  justify-content: end;
+}
+.out {
+  padding: 20px;
+
+  font-size: 12px;
+  margin-top: 0px;
+}
+.inp {
+  color: white !important;
+  background-color: white !important;
+  border: none !important;
+  padding: 5px 10px;
+  height: 48px;
+  width: 632px;
+}
+.svge {
+  width: 40px;
+  height: 48px;
+  color: white;
+  position: absolute;
+  right: 539px;
+  background-color: gray;
+  background-color: white !important;
+}
+
+.svg {
+  margin-left: 30px;
+}
+
+body {
+  background-color: white !important;
+}
+.ppc {
+  width: 70%;
+margin: auto;
+}
